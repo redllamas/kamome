@@ -1,0 +1,16 @@
+---
+title: Monday morning blues
+---
+
+# Starting off
+
+So, I'm just getting used to using the Markdown format.
+
+What if I want to do something like *this*? Or **this**? **Or _this_**?
+
+## Keep going
+
+Well, there are a few things I still need to do:
+* Complete the CSS and possibly regenerate it through Sass
+* Create more content
+* Look into the Haskell configuration
