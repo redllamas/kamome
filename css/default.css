@@ -4,7 +4,7 @@ Created: 2014/12/05
 By: Sam Ellard, Jetsets Inc. 
 */
 
-
+/*--------- Generals ---------*/
 body {
     color: #282828;
     font-family: "Helvetica Neue", Helvetica, Verdana, sans-serif;
@@ -12,33 +12,23 @@ body {
     margin: 0 auto;
 }
 
+a {
+    color: #DC322F;
+}
+a:visited {
+    color: #222;
+}
+p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
 header {
     margin-bottom: 30px;
     padding: 12px 0;
 }
 
-#logo a {
-    color: #DC322F;
-    float: left;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-}
-
-#navigation {
-    text-align: right;
-}
-
-#navigation a {
-    color: #DC322F;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-header ul li {
-    list-style: none;
-}
 footer {
     color: #555;
     font-size: 12px;
@@ -55,6 +45,32 @@ h2 {
     font-size: 20px;
 }
 
+/*--------- Specifics ---------*/
+
+#logo a {
+    color: #DC322F;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+#navigation {
+    text-align: right;
+}
+
+#navigation a {
+    color: #DC322F;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header ul li {
+    list-style: none;
+}
+
 .info {
     color: #555;
     font-size: 14px;
@@ -65,18 +81,13 @@ h2 {
     display: block;
     margin: 0 auto;
     text-align: center;
+    margin-bottom: 40px;
 }
 
-/*text styles*/
-a {
-    color: #DC322F;
-}
-a:visited {
-    color: #222;
-}
-p {
-    font-size: 16px;
-    font-weight: 300;
-    line-height: 25px;
-    margin-bottom: 5px;
+/*--------- Responsives ---------*/
+
+@media screen and (max-width: 600px) {
+    #logo a{
+    margin-bottom: 20px;
+    }
 }

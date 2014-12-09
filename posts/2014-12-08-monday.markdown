@@ -11,6 +11,11 @@ What if I want to do something like *this*? Or **this**? **Or _this_**?
 ## Keep going
 
 Well, there are a few things I still need to do:
-* Complete the CSS and possibly regenerate it through Sass
-* Create more content
-* Look into the Haskell configuration
+
+- Complete the CSS and possibly regenerate it through Sass
+- Create more content
+- Look into the Haskell configuration
+
+> hello,
+>
+> is it me you're looking for?
