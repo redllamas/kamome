@@ -1,6 +1,6 @@
 # testing, testing, one, two...
 
-This is possibly the sixth or seventh incarnation of my wayward, failed, *"Hello, world!"" of a blog, **kamome**.
+This is possibly the sixth or seventh incarnation of my wayward, failed, *"Hello, world!"* of a blog, **kamome**.
 
 **Kamome** (or *seagull* in Japanese) is simply a place to test using whatever new language or service I'm into at the time.
 
