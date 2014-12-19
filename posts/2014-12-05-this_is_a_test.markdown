@@ -1,5 +1,6 @@
 ---
 title: this is a test
+tags: test
 ---
 
 日本語 OK

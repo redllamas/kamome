@@ -1,5 +1,6 @@
 ---
 title: this is a the second test
+tags: test
 ---
 
 Recently I've been learning Haskell, and yesterday I discovered Hakyll.
