@@ -1,0 +1,16 @@
+---
+title: node ->  stream -> koans
+tags: node, 2015, javascript, ruby
+---
+
+January has gone by in a flash, and oh shit, I need to submit my application for the Kurashicom job.
+I've written the essay, just hope it's not complete bollocks.
+
+Since then, I've finished learnyounode, stream-adventure, and I've been trying to complete the Ruby Koans series too.
+
+I have to complete the application for Kurashicom tonight, and send it off by tomorrow. I hope I can get it done.
+
+To do:
+  - back to Yokohama to check for bills & 確定申告 paperwork
+  - back home for dinner and to work on the application
+  - try to sort out receipts monthly and also by category, then calculate the numbers 
