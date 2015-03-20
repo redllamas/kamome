@@ -1,0 +1,17 @@
+---
+title: mid-march and wtf do we have to show for it
+tags: laravel, php, darkside, kansai
+---
+
+Got back from Kansai last night, managed to get on the wrong shinkansen, get off at Nagoya and catch up to the one I meant to ride.
+
+Kansai was great, nice to see Kasumi's parents and enjoy some good food.
+Night bus was shit though.
+
+It's ten days under the Kurashicom interview. Still need to prepare a few things.
+
+  - need to buy something from the shop
+  - need to set up my website for my fake town, 森盛市
+  - need to study the fuck out of laravel and angularjs
+
+Also need to prepare for Kasumi's birthday on Friday, and Dad's birthday on Saturday.
